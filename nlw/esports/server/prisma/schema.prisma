@@ -32,3 +32,4 @@ model Ad {
 
   game Game @relation(fields: [gameId], references: [id])
 }
+
