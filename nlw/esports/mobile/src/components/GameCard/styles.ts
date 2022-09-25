@@ -5,7 +5,6 @@ export const styles = StyleSheet.create({
   container: {
 marginRight:24,
 
-
   },
   cover:{
     width:240,
@@ -13,7 +12,6 @@ marginRight:24,
     justifyContent:'flex-end',
     borderRadius: 8,
     overflow: 'hidden',
-
   },
   footer:{
     width:'100%',
